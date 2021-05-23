@@ -108,7 +108,7 @@ body{
 
 .rightmargin{
   position: relative;
-  width: 57%;
+  width: 50%;
   min-height: 440px;
  // background-color: #ccc;
   //padding: 20px;
@@ -226,7 +226,7 @@ input:focus {
   margin: auto;
   font-family: Arial;
   //background-color: #3CB371;
-  padding-top:0%;
+  padding-top:2%;
   margin-left: 8%;
 }
 .register-screen{
